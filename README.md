@@ -7,7 +7,7 @@ I would also (someday) compare the shape of the hand to a saved dictionary of sh
 The program steps are pretty straight forward:
 - Get the frame from the webcam.
 - Mask the skin color range. I've used a small window so doesn't take any undesirable colors from the background. Since is not AI...
-- Make the mask better with the OpenCV morphological transformations (not in current versions).
+- Make the mask better with the OpenCV morphological transformations.
 - Ready to implement the structural analysis.
 - Draw the figure.
 - **Pic related:**
